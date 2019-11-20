@@ -1,1 +1,1 @@
-# pluto-aurora
+# Aurora
